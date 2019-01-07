@@ -1,0 +1,2 @@
+# ideaConfig
+wenxuan idea config
